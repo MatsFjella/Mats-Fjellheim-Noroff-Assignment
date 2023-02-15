@@ -1,0 +1,29 @@
+.Background {
+    background-color: f3f3f3;
+}
+
+.h1 {
+    font-size: 52px;
+    font-weight: 600;
+    font-family: Poppins;
+}
+
+.web-security-question {
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+
+}
+
+.web-security-answer {
+font-size: 16px;
+font-family: Poppins;
+font-weight: 400;
+
+}
+
+.question {
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+}
